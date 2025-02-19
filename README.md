@@ -65,17 +65,17 @@ Wechat 辅助性功能增强
     <tr>
         <td align="center">模拟扫码</td>
         <td align="center">✅</td>
-        <td align="center">理论所有</td>
+        <td align="center">理论全版本</td>
     </tr>
     <tr>
         <td align="center">平板模式</td>
         <td align="center">✅</td>
-        <td align="center">理论所有</td>
+        <td align="center">理论全版本</td>
     </tr>
     <tr>
         <td align="center">通话限制</td>
         <td align="center">✅</td>
-        <td align="center">理论所有</td>
+        <td align="center">理论全版本</td>
     </tr>
     <tr>
         <td align="center">精确数量</td>
@@ -86,6 +86,16 @@ Wechat 辅助性功能增强
         <td align="center">消息详情</td>
         <td align="center">✅</td>
         <td align="center">8.0.45</td>
+    </tr>
+    <tr>
+        <td align="center">虚拟定位</td>
+        <td align="center">✅</td>
+        <td align="center">理论全版本</td>
+    </tr>
+    <tr>
+        <td align="center">圆形头像</td>
+        <td align="center">✅</td>
+        <td align="center">理论全版本</td>
     </tr>
     <tr>
         <td align="center">其他功能</td>
