@@ -93,6 +93,11 @@ Wechat 辅助性功能增强
         <td align="center">理论全版本</td>
     </tr>
     <tr>
+        <td align="center">订阅列表</td>
+        <td align="center">✅</td>
+        <td align="center">理论全版本</td>
+    </tr>
+    <tr>
         <td align="center">平板模式</td>
         <td align="center">✅</td>
         <td align="center">理论全版本</td>
