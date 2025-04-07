@@ -59,9 +59,9 @@ WeChat Auxiliary Function Enhancement
 
 ## 问题:
 
-| Question | Answer                               |
-| -------- | ------------------------------------ |
-| 适配版本 | 理论适配 8.0.0~8.0.57 国内与PLAY版本 |
+| Question | Answer                                |
+| -------- | ------------------------------------- |
+| 适配版本 | 理论适配 8.0.31~8.0.57 国内与PLAY版本 |
 
 ---
 
@@ -75,3 +75,13 @@ WeChat Auxiliary Function Enhancement
 | TimTool     | [TimTool](https://github.com/suzhelan/TimTool)            |
 | TSBattery   | [TSBattery](https://github.com/fankes/TSBattery)          |
 | Icon        | [MaiTungTM](https://github.com/Lagrio)                    |
+
+---
+
+## 星图:
+
+<p align="center">
+    <a href="https://github.com/HdShare/WAuxiliary_Public">
+        <img src="https://starchart.cc/HdShare/WAuxiliary_Public.svg?background=%23FFFFFF&axis=%23333333&line=%2328c445" alt="starchart">
+    </a>
+</p>
