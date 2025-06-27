@@ -69,14 +69,18 @@ WeChat Auxiliary
 
 ## 致谢:
 
-| Name        | Link                                                      |
-|-------------|-----------------------------------------------------------|
-| YukiHookAPI | [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) |
-| DexKit      | [DexKit](https://github.com/LuckyPray/DexKit)             |
-| QAuxiliary  | [QAuxiliary](https://github.com/cinit/QAuxiliary)         |
-| TimTool     | [TimTool](https://github.com/suzhelan/TimTool)            |
-| TSBattery   | [TSBattery](https://github.com/fankes/TSBattery)          |
-| Icon        | [MaiTungTM](https://github.com/Lagrio)                    |
+| Name          | Link                                                            |
+|---------------|-----------------------------------------------------------------|
+| HighCapable   | [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)       |
+| HighCapable   | [KavaRef](https://github.com/HighCapable/KavaRef)               |
+| BetterAndroid | [BetterAndroid](https://github.com/BetterAndroid/BetterAndroid) |
+| BetterAndroid | [Hikage](https://github.com/BetterAndroid/Hikage)               |
+| LuckyPray     | [DexKit](https://github.com/LuckyPray/DexKit)                   |
+| cinit         | [QAuxiliary](https://github.com/cinit/QAuxiliary)               |
+| suzhelan      | [TimTool](https://github.com/suzhelan/TimTool)                  |
+| fankes        | [TSBattery](https://github.com/fankes/TSBattery)                |
+| KitsunePie    | [QQCleaner](https://github.com/KitsunePie/QQCleaner)            |
+| Icon          | [MaiTungTM](https://github.com/Lagrio)                          |
 
 ---
 
