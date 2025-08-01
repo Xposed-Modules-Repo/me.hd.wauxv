@@ -46,8 +46,6 @@
     </a>
 </p>
 
----
-
 ## 说明:
 
 WeChat Auxiliary
@@ -57,15 +55,11 @@ WeChat Auxiliary
 - 如果某功能被大量运用于非法用途，那么该功能将会被移除
 - 鉴于项目的特殊性，开发团队可能随时**停止更新**或**删除项目**
 
----
-
 ## 问题:
 
 | Question | Answer                       |
 |----------|------------------------------|
 | 适配版本     | 理论适配 8.0.40~8.0.61 国内与PLAY版本 |
-
----
 
 ## 致谢:
 
@@ -81,8 +75,6 @@ WeChat Auxiliary
 | fankes        | [TSBattery](https://github.com/fankes/TSBattery)                |
 | KitsunePie    | [QQCleaner](https://github.com/KitsunePie/QQCleaner)            |
 | Icon          | [MaiTungTM](https://github.com/Lagrio)                          |
-
----
 
 ## 星图:
 
